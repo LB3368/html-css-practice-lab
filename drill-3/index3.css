@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header {
+    background-color: rgb(184, 177, 177);
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.container1 {
+    background-color: rgba(19, 133, 209, 0.445);
+    height: 50px;
+    width: 50px;
+}
+
+article {
+    background-color: white;
+    padding: 75px;
+}
+
+.container2 {
+    background-color: rgba(44, 127, 252, 0.918);
+    height: 10vh;
+}
+
+.container3 {
+    background-color: aqua;
+    height: 10vh;
+}
+
+.container4 {
+    background-color: lightgreen;
+    height: 10vh;
+}
+
+.container5 {
+    background-color: yellow;
+    height: 10vh;
+}
+
+.container6 {
+    bottom: 15px;
+    float: right;
+    position: relative;
+
+}
+
+button {
+    color: white;
+    background-color: black;
+    height: 25px;
+    width: 25px;
+    border-radius: 25%;
+}
